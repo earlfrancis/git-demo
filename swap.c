@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  int x = 28;
+  int x = 10;
   int y = 45;
   printf("Values before swapping: x=%d, y=%d\n", x, y);
 
